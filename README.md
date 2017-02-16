@@ -6,37 +6,37 @@
 
 ### maro-circle  
 
-##### *예시*  
+##### *Example*  
 ![](example/maro-circle-example.jpeg)
 
 <br/>
 
-##### *제품 디자인*  
-![](example/maro-circle-product-design.jpeg)  
+##### *Mockup*  
+![](example/maro-circle-mockup.jpeg)  
 
 ***
 
 ### maro-letter    
 
-##### *예시*  
+##### *Example*  
 ![](example/maro-letter-example.jpeg)
 
 <br/>
 
-##### *제품 디자인*  
-![](example/maro-letter-product-design.jpeg)  
+##### *Mockup*  
+![](example/maro-letter-mockup.jpeg)  
 
 ***
 
 ### maro-m  
 
-##### *예시*  
+##### *Example*  
 ![](example/maro-m-example.jpeg)
 
 <br/>
 
-##### *제품 디자인*  
-![](example/maro-m-product-design.jpeg)
+##### *Mockup*  
+![](example/maro-m-mockup.jpeg)
 
 ***
 
